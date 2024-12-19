@@ -1,0 +1,27 @@
+
+https://github.com/BANSAFAn/Java-On-Minecraft/blob/main/README/README.ru.md
+
+2 лучших
+https://www.microsoft.com/openjdk
+https://www.azul.com/downloads/?package=jdk#zulu
+
+для старых
+https://www.oracle.com/java/technologies/
+https://adoptium.net/temurin/releases/
+
+1.12.2
+https://adoptium.net/download/
+https://www.oracle.com/java/technologies/
+https://www.azul.com/downloads/
+https://www.microsoft.com/openjdk
+
+1.16.5
+https://adoptium.net/download/
+https://www.azul.com/downloads/
+https://www.microsoft.com/openjdk
+
+lastvershion minecraft
+https://adoptium.net/download/
+https://www.microsoft.com/openjdk
+
+java8 тоже ок
